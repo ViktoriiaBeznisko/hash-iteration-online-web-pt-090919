@@ -5,6 +5,8 @@
 # }
 
 def happy_birthday(birthday_kids)
+  birthday_kids.each do |kid, age|
+    puts 
   # add your code snippet here!
 end
 
